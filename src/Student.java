@@ -23,6 +23,6 @@ public class Student {
 	    }
 
 	    public void display() {
-	        System.out.println("ID: " + id + ", Name: " + name + ", Age: " + age);
+	        System.out.println("id: " + id + ", Name: " + name + ", Age: " + age);
 	    }
 }
